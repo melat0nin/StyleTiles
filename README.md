@@ -2,11 +2,13 @@
 
 Project: Style Tiles
 Version: 0.1
-Date:    2012-04-13
+Start:   2012-04-13
 
 About:   Git Respository concept by Adrian Gould
-         Original Template (PSD) by Samantha Warren, http://styletil.es
-         This GitHub repository is for the collection of StyleTile templates for 
+
+>         Original Template (PSD) by Samantha Warren, http://styletil.es
+ 
+>        This GitHub repository is for the collection of StyleTile templates for 
          different Design and Prototyping systems including:
 
 License: This repository and all files within it are covered by Creative Commons 
@@ -14,30 +16,34 @@ License: This repository and all files within it are covered by Creative Commons
 
 Folder Structure and Applications covered
 
-Adobe:
-======
+## Adobe: ##
+
 Adobe application template files.
-- Photoshop
-- Illustrator
-- InDesign
 
-Apple:
-======
+-	Photoshop
+-	Illustrator
+-	InDesign
+
+## Apple: ##
+
 Apple application template files.
-- Keynote
 
-Open Source:
-============
+-	Keynote
+
+## Open Source: ##
+
 Open source application templates.
-- TBA
 
-Web:
-====
+-	TBA
+
+## Web: ##
+
 Web application templates, including browser applications.
-- TBA
 
-Examples:
-=========
+-	TBA
+
+## Examples: ##
+
 Will contain JPG/PNG versions of Style Tiles contributed by users of this
 method of design.
 
