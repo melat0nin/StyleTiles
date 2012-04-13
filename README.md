@@ -1,18 +1,17 @@
 #Style Tyles#
 
-Project: Style Tiles
-Version: 0.1
-Start:   2012-04-13
+-	Project: Style Tiles
+-	Version: 0.1
+-	Start:   2012-04-13
 
-About:   Git Respository concept by Adrian Gould
+#### About: ####
+- Git Respository concept by Adrian Gould
+- Original Template (PSD) by Samantha Warren, http://styletil.es
+- This GitHub repository is for the collection of StyleTile templates for different Design and Prototyping systems.
 
-        Original Template (PSD) by Samantha Warren, http://styletil.es
- 
-        This GitHub repository is for the collection of StyleTile templates for 
-         different Design and Prototyping systems including:
-
-License: This repository and all files within it are covered by Creative Commons 
-         Attribution 3.0 Unported (CC BY 3.0) http://creativecommons.org/licenses/by/3.0/
+License: 
+-	This project and all files within it are covered by Creative Commons 
+-	Attribution 3.0 Unported (CC BY 3.0) http://creativecommons.org/licenses/by/3.0/
 
 - - -
 
