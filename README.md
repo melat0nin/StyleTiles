@@ -8,7 +8,7 @@
 - Original Template (PSD) by Samantha Warren, http://styletil.es
 - This GitHub repository is for the collection of StyleTile templates for different Design and Prototyping systems.
 
-###	License	### 
+###	License	###
 -	This project and all files within it are covered by Creative Commons Attribution 3.0 Unported (CC BY 3.0) http://creativecommons.org/licenses/by/3.0/
 
 - - -
