@@ -21,6 +21,7 @@ Adobe application template files.
 -	Photoshop
 -	Illustrator
 -	InDesign
+- Fireworks
 
 ### Apple: ###
 Apple application template files.
